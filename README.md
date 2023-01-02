@@ -5,7 +5,7 @@
 - 🌱 Recently I decided to dive into the challenging field of Data Science and Business Analytics
 - 👀 I’m currently learning and further developing my skills in Python, SQL, Power BI and Machine Learning
 - 🤓 I’m interested in collaborating in Data Analytics and Data Science interesting projects
-- 💬 Ask me about anything you are curious about
+- 💬 Ask me anything you are curious about
 - 📫 How to reach me: ineesgarcia@icloud.com
 
 <!--
@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - 🌱 Recently I decided to dive into the challenging field of Data Science and Business Analytics
 - 👀 I’m currently learning and further developing my skills in Python, SQL, Power BI, and Machine Learning
 - 👯 I’m interested in collaborating in Data Analytics and Data Science interesting projects
-- 💬 Ask me about anything you are curious about
+- 💬 Ask me anything you are curious about
 - 📫 How to reach me: ineesgarcia@icloud.com
