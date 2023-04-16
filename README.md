@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- ✨ I'm Inês and I'm 27 years old
+- ✨ I'm Inês and I'm 28 years old
 - 📉 My background is in Economics and Management
 - 🌱 Recently I decided to dive into the challenging field of Data Science and Business Analytics
 - 👀 I’m currently learning and further developing my skills in Python, SQL, Power BI and Machine Learning
