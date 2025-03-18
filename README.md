@@ -2,8 +2,8 @@
 
 - ✨ I'm Inês and I'm 29 years old
 - 📉 My background is in Economics and Management
-- 🌱 Recently I decided to dive into the challenging field of Data Science and Business Analytics
-- 👀 I’m currently learning and further developing my skills in Python, SQL and Power BI
+- 🌱 I'm passioned about Data
+- 👀 I’m constanty learning and further developing my skills in Python, SQL and BI tools
 - 🤓 I’m interested in collaborating in Data Analytics and Data Science interesting projects
 - 💬 Ask me anything you are curious about
 - 📫 How to reach me: inesmgarcia95@gmail.com
